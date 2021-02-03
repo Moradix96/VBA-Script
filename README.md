@@ -1,4 +1,4 @@
-# VBScript
+# VBA-Script
 Macro scripts for Microsoft Office
 
 # reverseLayoutDirection.vbs
