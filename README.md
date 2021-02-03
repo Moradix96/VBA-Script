@@ -4,7 +4,7 @@ Macro scripts for Microsoft Office
 ماکرواسکریپت هایی برای مایکروسافت آفیس
 </p>
 
-# reverseLayoutDirection.vbs
+# reverseLayoutDirection.bas
 A method for reversing layout direction in Microsoft Office Powerpoint <br />
 Usecases: Change LTR theme to RTL theme, Change RTL theme to LTR theme <br />
 
