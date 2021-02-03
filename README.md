@@ -1,5 +1,8 @@
 # VBA-Script
 Macro scripts for Microsoft Office
+<p align="right" direction="rtl">
+ماکرواسکریپت هایی برای مایکروسافت آفیس
+</p>
 
 # reverseLayoutDirection.vbs
 A method for reversing layout direction in Microsoft Office Powerpoint <br />
