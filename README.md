@@ -29,3 +29,14 @@ slideNumberPe<br/>
 سپس اسکریپت را اجرا کنید</p>
 <p align="right" direction="rtl">
 به طور خودکار شماره اسلاید فارسی در همه ی اسلایدها اضافه می شود</p>
+
+## fixExcelValidationBug.bas
+A method for fixing Microsoft Excel cell validation bug <br />
+Bug explanation: You can bypass cell validation by using copy-paste! <br />
+
+<p align="right" direction="rtl">
+یک متد برای حل مشکل اعتبارسنجی سلول در مایکروسافت آفیس اکسل
+</p>
+<p align="right" direction="rtl">
+شرح مشکل: می توان اعتبارسنجی سلول را با کپی و پیست دور زد!
+</p>
