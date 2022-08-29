@@ -38,5 +38,5 @@ Bug explanation: You can bypass cell validation by using copy-paste! <br />
 یک متد برای حل مشکل اعتبارسنجی سلول در مایکروسافت آفیس اکسل
 </p>
 <p align="right" direction="rtl">
-شرح مشکل: می توان اعتبارسنجی سلول را با کپی و پیست دور زد!
+شرح مشکل: می‌توان اعتبارسنجی سلول را با کپی و پیست دور زد!
 </p>
