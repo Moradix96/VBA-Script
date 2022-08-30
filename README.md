@@ -1,7 +1,7 @@
 # VBA-Script
 Macro scripts for Microsoft Office
 <p align="right" direction="rtl">
-ماکرواسکریپت هایی برای مایکروسافت آفیس
+ماکرواسکریپت‌هایی برای مایکروسافت آفیس
 </p>
 
 ## reverseLayoutDirection.bas
@@ -28,7 +28,7 @@ slideNumberPe<br/>
 <p align="right" direction="rtl">
 سپس اسکریپت را اجرا کنید</p>
 <p align="right" direction="rtl">
-به طور خودکار شماره اسلاید فارسی در همه ی اسلایدها اضافه می شود</p>
+به طور خودکار شماره اسلاید فارسی در همه‌ی اسلایدها اضافه می‌شود</p>
 
 ## fixExcelValidationBug.bas
 A method for fixing Microsoft Excel cell validation bug <br />
